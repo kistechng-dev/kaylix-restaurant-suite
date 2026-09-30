@@ -1,0 +1,122 @@
+[
+  {
+    "id": "REC-1790690500879-826",
+    "type": "REGISTRATION",
+    "fullName": "Test Customer",
+    "phone": "+2348011223344",
+    "email": "test@eatery.ng",
+    "restaurantName": "Test Diner",
+    "cityBranch": "",
+    "version": "Standard Package",
+    "versionCode": "STND",
+    "periodCode": "1Y",
+    "amount": "₦20,000",
+    "bankDetails": {
+      "bankName": "Zenith Bank PLC",
+      "accountNumber": "101 6978 239",
+      "accountName": "Kaylix Technology",
+      "paymentReference": "KYX-2026-TEST",
+      "transferDate": "2026-09-29T14:01:40.879Z"
+    },
+    "licenseCode": "STND-DQHLH-YMNE5-1Y-9YXQ",
+    "timestamp": "2026-09-29T14:01:40.879Z",
+    "status": "PENDING",
+    "notes": "Submitted via Kaylix portal."
+  },
+  {
+    "id": "REC-20260927-101",
+    "type": "REGISTRATION",
+    "fullName": "Chief Emmanuel Okonkwo",
+    "phone": "+234 803 552 1904",
+    "email": "e.okonkwo@kilimanjarogrill.ng",
+    "restaurantName": "Kilimanjaro Grill House",
+    "cityBranch": "Victoria Island, Lagos",
+    "version": "Standard Version",
+    "versionCode": "STND",
+    "periodCode": "1Y",
+    "amount": "₦20,000",
+    "bankDetails": {
+      "bankName": "Zenith Bank PLC",
+      "accountNumber": "101 6978 239",
+      "accountName": "Kaylix Technology",
+      "paymentReference": "KYX-2026-9281",
+      "transferDate": "2026-09-27T10:14:00.000Z"
+    },
+    "licenseCode": "STND-9UJUE-CTVRJ-1Y-ZQ4D",
+    "timestamp": "2026-09-27T10:14:32.000Z",
+    "status": "VERIFIED",
+    "notes": "2 POS terminals and 1 Kitchen display commissioned."
+  },
+  {
+    "id": "REC-20260927-102",
+    "type": "PAYMENT_SLIP",
+    "fullName": "Mrs. Fatima Al-Hassan",
+    "phone": "+234 802 334 9912",
+    "email": "fatima@arewafoodhub.com",
+    "restaurantName": "Arewa Delicacies Express",
+    "cityBranch": "Maitama, Abuja FCT",
+    "version": "Enterprise Version",
+    "versionCode": "ENTR",
+    "periodCode": "1Y",
+    "amount": "₦40,000",
+    "bankDetails": {
+      "bankName": "Moniepoint Microfinance Bank",
+      "accountNumber": "808 9697 390",
+      "accountName": "Alabi Kayode Felix",
+      "paymentReference": "KYX-2026-4402",
+      "transferDate": "2026-09-27T11:42:00.000Z"
+    },
+    "licenseCode": "ENTR-TL4XA-EXG5H-1Y-7N2K",
+    "timestamp": "2026-09-27T11:45:10.000Z",
+    "status": "VERIFIED",
+    "notes": "Transfer verified via Moniepoint settlement slip. Sent to WhatsApp."
+  },
+  {
+    "id": "REC-20260927-103",
+    "type": "REGISTRATION",
+    "fullName": "Babatunde Balogun",
+    "phone": "+234 814 009 2311",
+    "email": "tunde@citybites.ng",
+    "restaurantName": "City Bites Quick Service",
+    "cityBranch": "Ikeja City Mall, Lagos",
+    "version": "Trial Version",
+    "versionCode": "TRAL",
+    "periodCode": "7D",
+    "amount": "Free Trial",
+    "bankDetails": {
+      "bankName": "N/A (Free Trial)",
+      "accountNumber": "N/A",
+      "accountName": "Kaylix Evaluation",
+      "paymentReference": "TRL-EVAL-0927",
+      "transferDate": "2026-09-27T12:05:00.000Z"
+    },
+    "licenseCode": "TRAL-7QY35-QBXGF-7D-K63G",
+    "timestamp": "2026-09-27T12:05:44.000Z",
+    "status": "DISPATCHED",
+    "notes": "7-Day evaluation period active. Telegram and WhatsApp copy transmitted."
+  },
+  {
+    "id": "REC-20260927-104",
+    "type": "REGISTRATION",
+    "fullName": "Dr. Chinedu Eze",
+    "phone": "+234 809 112 8844",
+    "email": "chinedu@palmsdining.com",
+    "restaurantName": "The Palms Bistro & Lounge",
+    "cityBranch": "GRA Phase 2, Port Harcourt",
+    "version": "Basic Version",
+    "versionCode": "BASC",
+    "periodCode": "1Y",
+    "amount": "₦10,000",
+    "bankDetails": {
+      "bankName": "Zenith Bank PLC",
+      "accountNumber": "101 6978 239",
+      "accountName": "Kaylix Technology",
+      "paymentReference": "KYX-2026-7819",
+      "transferDate": "2026-09-27T12:30:00.000Z"
+    },
+    "licenseCode": "BASC-KYDYT-PHBXF-1Y-39XM",
+    "timestamp": "2026-09-27T12:31:02.000Z",
+    "status": "PENDING",
+    "notes": "Awaiting bank confirmation before terminal activation."
+  }
+]

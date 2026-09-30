@@ -1,0 +1,8 @@
+{
+  "name": "Kaylix Kitchen & Eatery Management Portal",
+  "description": "Enterprise distribution, licensing, banking, and settlement portal for Kaylix Restaurant & Eatery Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
